@@ -88,4 +88,31 @@ This is the screenshot of the dashboard.
 
 <img width="1277" height="718" alt="HR_ANALYTICS_DASHBOARD" src="https://github.com/user-attachments/assets/bdec7233-5fda-48c6-9f2f-9576d0bad37f" />
 
+---
+## 📁 Project Structure
+HR-Analytics-Dashboard-PowerBI/
+│
+├── README.md
+├── data/
+│   └── HR_Analytics.csv
+├── dashboard/
+│   └── HR_Analytics_Dashboard.pbix
+├── images/
+│   └── hr_analytics_dashboard.png
+├── assets/
+│   └── BG12.jpg
+
+---
+## ▶️ How to View the Dashboard
+1. Download the Power BI file from the `dashboard/` folder
+2. Open `HR_Analytics_Dashboard.pbix` using **Power BI Desktop**
+3. Use slicers to filter department-wise insights
+4. Analyze attrition trends across age, salary, role, and tenure
+
+---
+## 🎨 Design Assets
+Background images and design assets used in the Power BI dashboard are stored in the `assets/` folder.
+
+
+
 
